@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="ic_launcher_background" id="0x7f010000" />
+    <public type="drawable" name="ic_broom" id="0x7f020000" />
+    <public type="drawable" name="ic_check" id="0x7f020001" />
+    <public type="drawable" name="ic_filter" id="0x7f020002" />
+    <public type="drawable" name="ic_grid" id="0x7f020003" />
+    <public type="drawable" name="ic_history" id="0x7f020004" />
+    <public type="drawable" name="ic_home" id="0x7f020005" />
+    <public type="drawable" name="ic_info" id="0x7f020006" />
+    <public type="drawable" name="ic_person" id="0x7f020008" />
+    <public type="drawable" name="ic_refresh" id="0x7f020009" />
+    <public type="drawable" name="ic_search" id="0x7f02000a" />
+    <public type="drawable" name="ic_settings" id="0x7f02000b" />
+    <public type="drawable" name="ic_launcher_foreground" id="0x7f020007" />
+    <public type="drawable" name="splash_logo" id="0x7f02000c" />
+    <public type="mipmap" name="ic_launcher" id="0x7f030000" />
+    <public type="mipmap" name="ic_launcher_round" id="0x7f030001" />
+</resources>
